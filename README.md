@@ -7,5 +7,5 @@ Cryptocurrency real-time value fetched from the coinbase(https://developers.coin
 ## Windows Notification Demo
 
 <p float="left">
-  <img src="/demo.png" width="400" height="400" />
+  <img src="/demo.png" width="800" height="400" />
 </p>
